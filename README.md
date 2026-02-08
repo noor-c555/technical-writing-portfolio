@@ -7,9 +7,9 @@ This repository contains selected technical writing samples demonstrating my abi
 ### Issue Tracking System
 A C++-based application to manage and track software bugs throughout the development lifecycle. Documentation includes:
 - [Software Requirements Specification (Markdown)](./issue-tracking-system/SRS.md)
-- [Software Requirements Specification (PDF)](./issue-tracking-system/SRS.pdf)
+- [Software Requirements Specification (PDF)](./issue-tracking-system/ITS_SRS.pdf)
 - [User Manual (Markdown)](./issue-tracking-system/User-Manual.md)
-- [User Manual (PDF)](./issue-tracking-system/User-Manual.pdf)
+- [User Manual (PDF)](./issue-tracking-system/ITS_User_Manual.pdf)
 
 ### AI Instructor: Personalized Feedback and Guidance Module
 Another systems-level project demonstrating technical documentation skills. Documentation includes:
