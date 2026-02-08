@@ -8,6 +8,7 @@ The Issue Tracking System is a C++-based application designed to help users reco
 - **Software Requirements Specification (PDF)**: Polished, formatted version of the SRS.  
 - **User Manual (Markdown)**: Step-by-step instructions for end users.  
 - **User Manual (PDF)**: Formal, polished user guide.
+- **Testing Report (PDF)**: Official testing report, detailing test cases and outcomes.
 
 ## Audience
 - Developers using the system to log and manage bugs  
