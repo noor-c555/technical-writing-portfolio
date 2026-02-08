@@ -10,6 +10,7 @@ A C++-based application to manage and track software bugs throughout the develop
 - [Software Requirements Specification (PDF)](./issue-tracking-system/ITS_SRS.pdf)
 - [User Manual (Markdown)](./issue-tracking-system/User-Manual.md)
 - [User Manual (PDF)](./issue-tracking-system/ITS_User_Manual.pdf)
+- [Testing Report (PDF)](./issue-tracking-system/ITS_Testing_Report.pdf)
 
 ### AI Instructor: Personalized Feedback and Guidance Module
 Another systems-level project demonstrating technical documentation skills. Documentation includes:
