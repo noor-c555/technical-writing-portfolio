@@ -13,8 +13,8 @@ A C++-based application to manage and track software bugs throughout the develop
 
 ### AI Instructor: Personalized Feedback and Guidance Module
 Another systems-level project demonstrating technical documentation skills. Documentation includes:
-- [Software Requirements Specification (Markdown)](./second-project-name/SRS.md)
-- [Software Requirements Specification (PDF)](./second-project-name/SRS.pdf)
+- [Software Requirements Specification (Markdown)](./AI-Instructor/SRS.md)
+- [Software Requirements Specification (PDF)](./AI-Instructor/SRS.pdf)
 
 ## Role and Responsibilities
 - Authored software requirements specifications (SRS), user manuals, and developer documentation
